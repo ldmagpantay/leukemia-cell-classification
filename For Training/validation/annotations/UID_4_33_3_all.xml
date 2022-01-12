@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>UID_4_33_3_all.jpg</filename>
+	<path>C:\Users\leodominick\Desktop\Leukemia Classification\validation\images\UID_4_33_3_all.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>UID_H11_5_1_hem.jpg</filename>
+	<path>C:\Users\leodominick\Desktop\Leukemia Classification\training\images\UID_H11_5_1_hem.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HEM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>137</ymin>
+			<xmax>344</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

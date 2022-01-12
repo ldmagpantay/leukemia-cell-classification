@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file>use-camera.png</file>
+	<file>microscope.png</file>
+	<file>get-video.png</file>
+	<file>get-img.png</file>
+    </qresource>
+</RCC>

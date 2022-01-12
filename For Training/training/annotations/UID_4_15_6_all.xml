@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>UID_4_15_6_all.jpg</filename>
+	<path>C:\Users\leodominick\Desktop\Leukemia Classification\training\images\UID_4_15_6_all.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ALL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>140</ymin>
+			<xmax>362</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
